@@ -9,5 +9,3 @@ Link: https://www.udemy.com/course/microservices-with-spring-boot-and-spring-clo
 -Spring Cloud Gateway, Routing and Filters
 -Fallback Methods, Circuit Breaker Pattern, Rate Limiting
 -Docker
-
-
