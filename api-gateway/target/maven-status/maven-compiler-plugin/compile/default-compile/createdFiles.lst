@@ -1,0 +1,3 @@
+com\herlan\microservices\api_gateway\ApiGatewayApplication.class
+com\herlan\microservices\api_gateway\ApiGatewayConfiguration.class
+com\herlan\microservices\api_gateway\LoggingFilter.class

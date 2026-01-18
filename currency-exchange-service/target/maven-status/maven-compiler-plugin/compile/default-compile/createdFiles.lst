@@ -1,0 +1,5 @@
+com\herlan\microservices\currency_exchange_service\controller\CircuitBreakerController.class
+com\herlan\microservices\currency_exchange_service\CurrencyExchangeServiceApplication.class
+com\herlan\microservices\currency_exchange_service\controller\CurrencyExchangeController.class
+com\herlan\microservices\currency_exchange_service\model\CurrencyExchange.class
+com\herlan\microservices\currency_exchange_service\repository\CurrencyExchangeRepository.class
